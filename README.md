@@ -1,7 +1,7 @@
 # Programming_principles
 This repository contains the programs that I design for the Programming principles course, at Genomic sciences program. The requirements of each program were the following:
 
-Each algorithm was implemented in both Perl and C. They use variables with meaningful names, and include comments (internal documentation) that explain the logic used by the program. They also include a short data dictionary describing how each variable is used and what it means.
+Each algorithm was implemented in both Perl and C. They use variables with meaningful names, and include comments (internal documentation) that explain the logic used by the program. They also include a short data dictionary describing how each variable is used and what it means. Both documentation and output are in spanish.
 
 1. It consists of two parts:
 a) In an arrangement of 16 elements each element of the array can contain either a zero (0) or a one (1). Each element of this arrangement must be read from the keyboard. This array represents a binary number. The algorithm converts this binary number, represented by the array, into its decimal equivalent and prints it out. This code was subject to the restriction that for the calculation of each power of 2 it is not possible to use any arithmetic operator (+, -, *, /,%), nor of increment or decrement (++, -), nor operators or functions to raise to some exponent or to take root, nor logarithmic or trigonometric mathematical functions (that is, use shifts).
