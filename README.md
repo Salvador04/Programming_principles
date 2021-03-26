@@ -1,3 +1,5 @@
+**Author: Salvador Gonzalez Juarez**
+
 # Programming_principles
 This repository contains the programs that I design for the Programming principles course, at Genomic sciences program. The requirements of each program were the following:
 
