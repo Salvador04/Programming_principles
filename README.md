@@ -1,7 +1,7 @@
 **Author: Salvador Gonzalez Juarez**
 
 # Programming_principles
-This repository contains the programs that I design for the Programming principles course, at Genomic sciences program. The requirements of each program were the following:
+This repository contains the programs that I designed for the Programming principles course, at Genomic sciences program. The requirements of each program were the following:
 
 Each algorithm was implemented in both Perl and C. They use variables with meaningful names, and include comments (internal documentation) that explain the logic used by the program. They also include a short data dictionary describing how each variable is used and what it means. Both documentation and output are in spanish.
 
